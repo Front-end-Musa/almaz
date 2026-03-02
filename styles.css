@@ -88,6 +88,16 @@ p {
   transform: translateY(-1px);
 }
 
+.btn-whatsapp {
+  background: #25d366;
+  color: #fff;
+}
+
+.btn-whatsapp:hover {
+  background: #1fb15a;
+  transform: translateY(-1px);
+}
+
 .btn-sm {
   padding: 10px 16px;
 }
