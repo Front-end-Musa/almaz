@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://almazmaster.kz/sitemap.xml
+Sitemap: https://almaz-burenie.com/sitemap.xml
